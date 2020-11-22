@@ -13,7 +13,7 @@ Para um download fácil, clique no botão Clone or download e clique em Download
 
 Você precisa ter instalado o Node. Node
 Depois de baixar o arquivo, coloque todos os arquivos na mesma pasta
-Abra seu terminal/prompt e defini o caminho para a pasta (exemplo no Windows usamos CD: cd Desktop/Validador-de-token
+Abra seu terminal/prompt e defini o caminho para a pasta (exemplo no Windows usamos CD: cd Desktop/Validador-de-token)
 Clicar no arquivo chamado install.
 
-Depois de clicar no arquivo "install" clique no arquivo "start"
+Depois de clicar no arquivo " install " clique no arquivo " start "
