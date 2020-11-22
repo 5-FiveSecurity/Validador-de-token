@@ -7,8 +7,9 @@ Validador de tokens (em javascript)
 O Validador de tokens é um script em javascript que valida tokens em 3 categorias: Verificado, não verificado, inválido
 instalar.
 
-Para um download fácil, clique no botão Clone or download e clique em Download ZIP
-#Como usar.
+Para um download fácil, clique no botão Clone or download e clique em Download ZIP.
+
+# Como usar
 
 Você precisa ter instalado o Node. Node
 Depois de baixar o arquivo, coloque todos os arquivos na mesma pasta
